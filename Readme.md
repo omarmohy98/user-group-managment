@@ -39,8 +39,8 @@ This Bash script provides a simple and interactive command-line interface for ma
 
 ## How to Run
 
-1. Ensure you have the necessary permissions to execute the script (`chmod +x script_name.sh`).
-2. Run the script by executing `./script_name.sh` in the terminal.
+1. Ensure you have the necessary permissions to execute the script (`chmod +x user&group_managment_script`).
+2. Run the script by executing `./user&group_managment_script` in the terminal.
 
 ## Notes
 
